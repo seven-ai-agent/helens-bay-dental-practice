@@ -20,7 +20,7 @@ export default function Header() {
         {/* Logo */}
         <a href="#hero" className="flex items-center gap-3">
           <Image
-            src="/images/logo.png"
+            src="/helens-bay-dental-practice/images/logo.png"
             alt="Helens Bay Dental Practice"
             width={180}
             height={60}

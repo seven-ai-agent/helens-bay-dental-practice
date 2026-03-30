@@ -1,11 +1,11 @@
 import Image from "next/image";
 
 const accreditations = [
-  { src: "/images/footer-logo-0.png", alt: "Accreditation" },
-  { src: "/images/footer-logo-1.png", alt: "Accreditation" },
-  { src: "/images/footer-logo-2.png", alt: "Accreditation" },
-  { src: "/images/footer-logo-3.png", alt: "Accreditation" },
-  { src: "/images/footer-logo-7.png", alt: "Accreditation" },
+  { src: "/helens-bay-dental-practice/images/footer-logo-0.png", alt: "Accreditation" },
+  { src: "/helens-bay-dental-practice/images/footer-logo-1.png", alt: "Accreditation" },
+  { src: "/helens-bay-dental-practice/images/footer-logo-2.png", alt: "Accreditation" },
+  { src: "/helens-bay-dental-practice/images/footer-logo-3.png", alt: "Accreditation" },
+  { src: "/helens-bay-dental-practice/images/footer-logo-7.png", alt: "Accreditation" },
 ];
 
 export default function Footer() {
@@ -35,7 +35,7 @@ export default function Footer() {
           {/* Column 1: About */}
           <div>
             <Image
-              src="/images/logo.png"
+              src="/helens-bay-dental-practice/images/logo.png"
               alt="Helens Bay Dental"
               width={160}
               height={50}

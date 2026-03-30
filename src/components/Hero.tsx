@@ -4,27 +4,27 @@ import Image from "next/image";
 
 const slides = [
   {
-    image: "/images/hero-team.jpg",
+    image: "/helens-bay-dental-practice/images/hero-team.jpg",
     title: "Welcome to Helens Bay Dental",
     subtitle: "High quality dental care in a comfortable, relaxing environment",
   },
   {
-    image: "/images/hero-invisalign.jpg",
+    image: "/helens-bay-dental-practice/images/hero-invisalign.jpg",
     title: "Invisalign® Clear Aligners",
     subtitle: "The invisible way to straighten your teeth — now with Silver Provider status",
   },
   {
-    image: "/images/hero-digital.jpg",
+    image: "/helens-bay-dental-practice/images/hero-digital.jpg",
     title: "Digital Dentistry is Here",
     subtitle: "CEREC same-day crowns, 3D scanning & cutting-edge technology",
   },
   {
-    image: "/images/hero-which-side.jpg",
+    image: "/helens-bay-dental-practice/images/hero-which-side.jpg",
     title: "Smile with Confidence",
     subtitle: "Cosmetic dentistry, teeth whitening & complete smile makeovers",
   },
   {
-    image: "/images/hero-complimentary.jpg",
+    image: "/helens-bay-dental-practice/images/hero-complimentary.jpg",
     title: "Complimentary Consultations",
     subtitle: "Start your smile journey with a free initial consultation",
   },

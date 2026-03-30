@@ -9,7 +9,7 @@ export default function About() {
           <div className="relative">
             <div className="relative aspect-[4/3] overflow-hidden rounded-2xl shadow-2xl">
               <Image
-                src="/images/practice-exterior.jpg"
+                src="/helens-bay-dental-practice/images/practice-exterior.jpg"
                 alt="Helens Bay Dental Practice exterior"
                 fill
                 className="object-cover"
@@ -17,7 +17,7 @@ export default function About() {
             </div>
             <div className="absolute -bottom-6 -right-6 hidden lg:block">
               <Image
-                src="/images/badge-round.png"
+                src="/helens-bay-dental-practice/images/badge-round.png"
                 alt="Helens Bay Dental badge"
                 width={140}
                 height={140}
